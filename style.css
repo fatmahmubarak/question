@@ -23,6 +23,10 @@ position: relative;
 transition: .2s;
 user-select: none;
 text-decoration:none;
+margin-top: 100%;
+margin-bottom: 100%;
+margin-left: 100%;
+margin-right: 100%;
 }
 
 .button-67:hover {
@@ -40,8 +44,6 @@ body {
   background-color: #e7e7f5; ;
   text-align: center;
   display: block;
-  margin-top: 100%;
-
 }
         
 /* p {
