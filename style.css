@@ -40,11 +40,11 @@ body {
   background-color: #e7e7f5; ;
   text-align: center;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 110%;
+  margin-right: 110%;
   width: 100%;
-  margin-top: 120%;
-  margin-bottom: auto;
+  margin-top:110%;
+  margin-bottom:110%;
 }
         
 /* p {
