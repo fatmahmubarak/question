@@ -3,14 +3,14 @@
   align-items: center;
   background: #e7e7f5;
   border: 0;
-  border-radius: 10px;
+  border-radius: 18px;
   box-shadow: -10px -10px 30px 0 #fff,10px 10px 30px 0 #1d0dca17;
   box-sizing: border-box;
   text-align: center;
   color: #2a1f62;
   font-family: Arial, sans-serif;
   font-size: 1rem;
--webkit-user-select: none;
+  -webkit-user-select: none;
 touch-action: manipulation;
 white-space: pre;
 width: max-content;
@@ -23,7 +23,6 @@ position: relative;
 transition: .2s;
 user-select: none;
 text-decoration:none;
-
 }
 
 .button-67:hover {
@@ -49,7 +48,7 @@ body {
 }
         
 p {
-font-size: 18px;
+font-size: 30px;
 }
 
  
